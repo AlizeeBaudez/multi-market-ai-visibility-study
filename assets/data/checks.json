@@ -1,0 +1,5176 @@
+{
+ "n": 845,
+ "failed": 0,
+ "checks": [
+  {
+   "check": "T03 n AIO FR/fr",
+   "site": 77,
+   "report": 77,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% AIO FR/fr",
+   "site": 32.5,
+   "report": 32.5,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% AIO FR/fr",
+   "site": 16.9,
+   "report": 16.9,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% AIO FR/fr",
+   "site": 7.8,
+   "report": 7.8,
+   "ok": true
+  },
+  {
+   "check": "T03 media% AIO FR/fr",
+   "site": 9.1,
+   "report": 9.1,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% AIO FR/fr",
+   "site": 1.3,
+   "report": 1.3,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% AIO FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% AIO FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% AIO FR/fr",
+   "site": 5.2,
+   "report": 5.2,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% AIO FR/fr",
+   "site": 5.2,
+   "report": 5.2,
+   "ok": true
+  },
+  {
+   "check": "T03 video% AIO FR/fr",
+   "site": 14.3,
+   "report": 14.3,
+   "ok": true
+  },
+  {
+   "check": "T03 social% AIO FR/fr",
+   "site": 3.9,
+   "report": 3.9,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% AIO FR/fr",
+   "site": 1.3,
+   "report": 1.3,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% AIO FR/fr",
+   "site": 1.3,
+   "report": 1.3,
+   "ok": true
+  },
+  {
+   "check": "T03 association% AIO FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% AIO FR/fr",
+   "site": 1.3,
+   "report": 1.3,
+   "ok": true
+  },
+  {
+   "check": "T04 local% AIO FR/fr",
+   "site": 51.9,
+   "report": 51.9,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% AIO FR/fr",
+   "site": 2.6,
+   "report": 2.6,
+   "ok": true
+  },
+  {
+   "check": "T04 global% AIO FR/fr",
+   "site": 44.2,
+   "report": 44.2,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% AIO FR/fr",
+   "site": 1.3,
+   "report": 1.3,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% AIO FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match AIO FR/fr",
+   "site": 75.7,
+   "report": 75.7,
+   "ok": true
+  },
+  {
+   "check": "T03 n AIO DE/fr",
+   "site": 46,
+   "report": 46,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% AIO DE/fr",
+   "site": 45.7,
+   "report": 45.7,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% AIO DE/fr",
+   "site": 13.0,
+   "report": 13.0,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% AIO DE/fr",
+   "site": 6.5,
+   "report": 6.5,
+   "ok": true
+  },
+  {
+   "check": "T03 media% AIO DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% AIO DE/fr",
+   "site": 2.2,
+   "report": 2.2,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% AIO DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% AIO DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% AIO DE/fr",
+   "site": 4.3,
+   "report": 4.3,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% AIO DE/fr",
+   "site": 4.3,
+   "report": 4.3,
+   "ok": true
+  },
+  {
+   "check": "T03 video% AIO DE/fr",
+   "site": 15.2,
+   "report": 15.2,
+   "ok": true
+  },
+  {
+   "check": "T03 social% AIO DE/fr",
+   "site": 6.5,
+   "report": 6.5,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% AIO DE/fr",
+   "site": 2.2,
+   "report": 2.2,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% AIO DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 association% AIO DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% AIO DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% AIO DE/fr",
+   "site": 4.3,
+   "report": 4.3,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% AIO DE/fr",
+   "site": 45.7,
+   "report": 45.7,
+   "ok": true
+  },
+  {
+   "check": "T04 global% AIO DE/fr",
+   "site": 45.7,
+   "report": 45.7,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% AIO DE/fr",
+   "site": 2.2,
+   "report": 2.2,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% AIO DE/fr",
+   "site": 2.2,
+   "report": 2.2,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match AIO DE/fr",
+   "site": 75.6,
+   "report": 75.6,
+   "ok": true
+  },
+  {
+   "check": "T03 n AIO CH/fr",
+   "site": 90,
+   "report": 90,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% AIO CH/fr",
+   "site": 37.8,
+   "report": 37.8,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% AIO CH/fr",
+   "site": 15.6,
+   "report": 15.6,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% AIO CH/fr",
+   "site": 7.8,
+   "report": 7.8,
+   "ok": true
+  },
+  {
+   "check": "T03 media% AIO CH/fr",
+   "site": 6.7,
+   "report": 6.7,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% AIO CH/fr",
+   "site": 3.3,
+   "report": 3.3,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% AIO CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% AIO CH/fr",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% AIO CH/fr",
+   "site": 3.3,
+   "report": 3.3,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% AIO CH/fr",
+   "site": 5.6,
+   "report": 5.6,
+   "ok": true
+  },
+  {
+   "check": "T03 video% AIO CH/fr",
+   "site": 13.3,
+   "report": 13.3,
+   "ok": true
+  },
+  {
+   "check": "T03 social% AIO CH/fr",
+   "site": 3.3,
+   "report": 3.3,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% AIO CH/fr",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% AIO CH/fr",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T03 association% AIO CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% AIO CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% AIO CH/fr",
+   "site": 21.1,
+   "report": 21.1,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% AIO CH/fr",
+   "site": 36.7,
+   "report": 36.7,
+   "ok": true
+  },
+  {
+   "check": "T04 global% AIO CH/fr",
+   "site": 37.8,
+   "report": 37.8,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% AIO CH/fr",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% AIO CH/fr",
+   "site": 3.3,
+   "report": 3.3,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match AIO CH/fr",
+   "site": 75.6,
+   "report": 75.6,
+   "ok": true
+  },
+  {
+   "check": "T03 n AIO FR/de",
+   "site": 86,
+   "report": 86,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% AIO FR/de",
+   "site": 34.9,
+   "report": 34.9,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% AIO FR/de",
+   "site": 9.3,
+   "report": 9.3,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% AIO FR/de",
+   "site": 9.3,
+   "report": 9.3,
+   "ok": true
+  },
+  {
+   "check": "T03 media% AIO FR/de",
+   "site": 10.5,
+   "report": 10.5,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% AIO FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% AIO FR/de",
+   "site": 2.3,
+   "report": 2.3,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% AIO FR/de",
+   "site": 5.8,
+   "report": 5.8,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% AIO FR/de",
+   "site": 3.5,
+   "report": 3.5,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% AIO FR/de",
+   "site": 9.3,
+   "report": 9.3,
+   "ok": true
+  },
+  {
+   "check": "T03 video% AIO FR/de",
+   "site": 8.1,
+   "report": 8.1,
+   "ok": true
+  },
+  {
+   "check": "T03 social% AIO FR/de",
+   "site": 3.5,
+   "report": 3.5,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% AIO FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% AIO FR/de",
+   "site": 1.2,
+   "report": 1.2,
+   "ok": true
+  },
+  {
+   "check": "T03 association% AIO FR/de",
+   "site": 1.2,
+   "report": 1.2,
+   "ok": true
+  },
+  {
+   "check": "T03 other% AIO FR/de",
+   "site": 1.2,
+   "report": 1.2,
+   "ok": true
+  },
+  {
+   "check": "T04 local% AIO FR/de",
+   "site": 2.3,
+   "report": 2.3,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% AIO FR/de",
+   "site": 58.1,
+   "report": 58.1,
+   "ok": true
+  },
+  {
+   "check": "T04 global% AIO FR/de",
+   "site": 38.4,
+   "report": 38.4,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% AIO FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% AIO FR/de",
+   "site": 1.2,
+   "report": 1.2,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match AIO FR/de",
+   "site": 79.5,
+   "report": 79.5,
+   "ok": true
+  },
+  {
+   "check": "T03 n AIO DE/de",
+   "site": 73,
+   "report": 73,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% AIO DE/de",
+   "site": 28.8,
+   "report": 28.8,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% AIO DE/de",
+   "site": 9.6,
+   "report": 9.6,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% AIO DE/de",
+   "site": 13.7,
+   "report": 13.7,
+   "ok": true
+  },
+  {
+   "check": "T03 media% AIO DE/de",
+   "site": 4.1,
+   "report": 4.1,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% AIO DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% AIO DE/de",
+   "site": 2.7,
+   "report": 2.7,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% AIO DE/de",
+   "site": 2.7,
+   "report": 2.7,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% AIO DE/de",
+   "site": 11.0,
+   "report": 11.0,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% AIO DE/de",
+   "site": 8.2,
+   "report": 8.2,
+   "ok": true
+  },
+  {
+   "check": "T03 video% AIO DE/de",
+   "site": 8.2,
+   "report": 8.2,
+   "ok": true
+  },
+  {
+   "check": "T03 social% AIO DE/de",
+   "site": 4.1,
+   "report": 4.1,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% AIO DE/de",
+   "site": 1.4,
+   "report": 1.4,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% AIO DE/de",
+   "site": 2.7,
+   "report": 2.7,
+   "ok": true
+  },
+  {
+   "check": "T03 association% AIO DE/de",
+   "site": 1.4,
+   "report": 1.4,
+   "ok": true
+  },
+  {
+   "check": "T03 other% AIO DE/de",
+   "site": 1.4,
+   "report": 1.4,
+   "ok": true
+  },
+  {
+   "check": "T04 local% AIO DE/de",
+   "site": 53.4,
+   "report": 53.4,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% AIO DE/de",
+   "site": 4.1,
+   "report": 4.1,
+   "ok": true
+  },
+  {
+   "check": "T04 global% AIO DE/de",
+   "site": 39.7,
+   "report": 39.7,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% AIO DE/de",
+   "site": 1.4,
+   "report": 1.4,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% AIO DE/de",
+   "site": 1.4,
+   "report": 1.4,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match AIO DE/de",
+   "site": 83.3,
+   "report": 83.3,
+   "ok": true
+  },
+  {
+   "check": "T03 n AIO CH/de",
+   "site": 84,
+   "report": 84,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% AIO CH/de",
+   "site": 31.0,
+   "report": 31.0,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% AIO CH/de",
+   "site": 8.3,
+   "report": 8.3,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% AIO CH/de",
+   "site": 3.6,
+   "report": 3.6,
+   "ok": true
+  },
+  {
+   "check": "T03 media% AIO CH/de",
+   "site": 14.3,
+   "report": 14.3,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% AIO CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% AIO CH/de",
+   "site": 4.8,
+   "report": 4.8,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% AIO CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% AIO CH/de",
+   "site": 6.0,
+   "report": 6.0,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% AIO CH/de",
+   "site": 9.5,
+   "report": 9.5,
+   "ok": true
+  },
+  {
+   "check": "T03 video% AIO CH/de",
+   "site": 10.7,
+   "report": 10.7,
+   "ok": true
+  },
+  {
+   "check": "T03 social% AIO CH/de",
+   "site": 4.8,
+   "report": 4.8,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% AIO CH/de",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% AIO CH/de",
+   "site": 1.2,
+   "report": 1.2,
+   "ok": true
+  },
+  {
+   "check": "T03 association% AIO CH/de",
+   "site": 1.2,
+   "report": 1.2,
+   "ok": true
+  },
+  {
+   "check": "T03 other% AIO CH/de",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T04 local% AIO CH/de",
+   "site": 15.5,
+   "report": 15.5,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% AIO CH/de",
+   "site": 44.0,
+   "report": 44.0,
+   "ok": true
+  },
+  {
+   "check": "T04 global% AIO CH/de",
+   "site": 38.1,
+   "report": 38.1,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% AIO CH/de",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% AIO CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match AIO CH/de",
+   "site": 77.8,
+   "report": 77.8,
+   "ok": true
+  },
+  {
+   "check": "T03 n AIO FR/en",
+   "site": 78,
+   "report": 78,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% AIO FR/en",
+   "site": 24.4,
+   "report": 24.4,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% AIO FR/en",
+   "site": 2.6,
+   "report": 2.6,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% AIO FR/en",
+   "site": 9.0,
+   "report": 9.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% AIO FR/en",
+   "site": 5.1,
+   "report": 5.1,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% AIO FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% AIO FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% AIO FR/en",
+   "site": 1.3,
+   "report": 1.3,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% AIO FR/en",
+   "site": 1.3,
+   "report": 1.3,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% AIO FR/en",
+   "site": 33.3,
+   "report": 33.3,
+   "ok": true
+  },
+  {
+   "check": "T03 video% AIO FR/en",
+   "site": 2.6,
+   "report": 2.6,
+   "ok": true
+  },
+  {
+   "check": "T03 social% AIO FR/en",
+   "site": 19.2,
+   "report": 19.2,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% AIO FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% AIO FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 association% AIO FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% AIO FR/en",
+   "site": 1.3,
+   "report": 1.3,
+   "ok": true
+  },
+  {
+   "check": "T04 local% AIO FR/en",
+   "site": 3.8,
+   "report": 3.8,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% AIO FR/en",
+   "site": 6.4,
+   "report": 6.4,
+   "ok": true
+  },
+  {
+   "check": "T04 global% AIO FR/en",
+   "site": 80.8,
+   "report": 80.8,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% AIO FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% AIO FR/en",
+   "site": 9.0,
+   "report": 9.0,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match AIO FR/en",
+   "site": 98.3,
+   "report": 98.3,
+   "ok": true
+  },
+  {
+   "check": "T03 n AIO DE/en",
+   "site": 90,
+   "report": 90,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% AIO DE/en",
+   "site": 26.7,
+   "report": 26.7,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% AIO DE/en",
+   "site": 7.8,
+   "report": 7.8,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% AIO DE/en",
+   "site": 7.8,
+   "report": 7.8,
+   "ok": true
+  },
+  {
+   "check": "T03 media% AIO DE/en",
+   "site": 6.7,
+   "report": 6.7,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% AIO DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% AIO DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% AIO DE/en",
+   "site": 2.2,
+   "report": 2.2,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% AIO DE/en",
+   "site": 2.2,
+   "report": 2.2,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% AIO DE/en",
+   "site": 20.0,
+   "report": 20.0,
+   "ok": true
+  },
+  {
+   "check": "T03 video% AIO DE/en",
+   "site": 3.3,
+   "report": 3.3,
+   "ok": true
+  },
+  {
+   "check": "T03 social% AIO DE/en",
+   "site": 21.1,
+   "report": 21.1,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% AIO DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% AIO DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 association% AIO DE/en",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T03 other% AIO DE/en",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T04 local% AIO DE/en",
+   "site": 5.6,
+   "report": 5.6,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% AIO DE/en",
+   "site": 2.2,
+   "report": 2.2,
+   "ok": true
+  },
+  {
+   "check": "T04 global% AIO DE/en",
+   "site": 84.4,
+   "report": 84.4,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% AIO DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% AIO DE/en",
+   "site": 7.8,
+   "report": 7.8,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match AIO DE/en",
+   "site": 94.4,
+   "report": 94.4,
+   "ok": true
+  },
+  {
+   "check": "T03 n AIO CH/en",
+   "site": 84,
+   "report": 84,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% AIO CH/en",
+   "site": 40.5,
+   "report": 40.5,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% AIO CH/en",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% AIO CH/en",
+   "site": 7.1,
+   "report": 7.1,
+   "ok": true
+  },
+  {
+   "check": "T03 media% AIO CH/en",
+   "site": 9.5,
+   "report": 9.5,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% AIO CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% AIO CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% AIO CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% AIO CH/en",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% AIO CH/en",
+   "site": 16.7,
+   "report": 16.7,
+   "ok": true
+  },
+  {
+   "check": "T03 video% AIO CH/en",
+   "site": 4.8,
+   "report": 4.8,
+   "ok": true
+  },
+  {
+   "check": "T03 social% AIO CH/en",
+   "site": 13.1,
+   "report": 13.1,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% AIO CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% AIO CH/en",
+   "site": 1.2,
+   "report": 1.2,
+   "ok": true
+  },
+  {
+   "check": "T03 association% AIO CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% AIO CH/en",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T04 local% AIO CH/en",
+   "site": 6.0,
+   "report": 6.0,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% AIO CH/en",
+   "site": 3.6,
+   "report": 3.6,
+   "ok": true
+  },
+  {
+   "check": "T04 global% AIO CH/en",
+   "site": 82.1,
+   "report": 82.1,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% AIO CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% AIO CH/en",
+   "site": 8.3,
+   "report": 8.3,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match AIO CH/en",
+   "site": 95.8,
+   "report": 95.8,
+   "ok": true
+  },
+  {
+   "check": "T02 n AIO all",
+   "site": 708,
+   "report": 708,
+   "ok": true
+  },
+  {
+   "check": "T02 brand% AIO all",
+   "site": 33.1,
+   "report": 33.1,
+   "ok": true
+  },
+  {
+   "check": "T02 retailer% AIO all",
+   "site": 9.3,
+   "report": 9.3,
+   "ok": true
+  },
+  {
+   "check": "T02 distributor% AIO all",
+   "site": 8.1,
+   "report": 8.1,
+   "ok": true
+  },
+  {
+   "check": "T02 media% AIO all",
+   "site": 7.8,
+   "report": 7.8,
+   "ok": true
+  },
+  {
+   "check": "T02 testing_body% AIO all",
+   "site": 0.7,
+   "report": 0.7,
+   "ok": true
+  },
+  {
+   "check": "T02 consumer_advice% AIO all",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T02 affiliate% AIO all",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T02 b2b_platform% AIO all",
+   "site": 4.2,
+   "report": 4.2,
+   "ok": true
+  },
+  {
+   "check": "T02 forum_ugc% AIO all",
+   "site": 12.9,
+   "report": 12.9,
+   "ok": true
+  },
+  {
+   "check": "T02 video% AIO all",
+   "site": 8.6,
+   "report": 8.6,
+   "ok": true
+  },
+  {
+   "check": "T02 social% AIO all",
+   "site": 9.0,
+   "report": 9.0,
+   "ok": true
+  },
+  {
+   "check": "T02 encyclopedia% AIO all",
+   "site": 0.8,
+   "report": 0.8,
+   "ok": true
+  },
+  {
+   "check": "T02 public_body% AIO all",
+   "site": 1.0,
+   "report": 1.0,
+   "ok": true
+  },
+  {
+   "check": "T02 association% AIO all",
+   "site": 0.6,
+   "report": 0.6,
+   "ok": true
+  },
+  {
+   "check": "T02 other% AIO all",
+   "site": 1.3,
+   "report": 1.3,
+   "ok": true
+  },
+  {
+   "check": "T02 n AIO CW",
+   "site": 342,
+   "report": 342,
+   "ok": true
+  },
+  {
+   "check": "T02 brand% AIO CW",
+   "site": 19.0,
+   "report": 19.0,
+   "ok": true
+  },
+  {
+   "check": "T02 retailer% AIO CW",
+   "site": 18.1,
+   "report": 18.1,
+   "ok": true
+  },
+  {
+   "check": "T02 distributor% AIO CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 media% AIO CW",
+   "site": 13.2,
+   "report": 13.2,
+   "ok": true
+  },
+  {
+   "check": "T02 testing_body% AIO CW",
+   "site": 1.5,
+   "report": 1.5,
+   "ok": true
+  },
+  {
+   "check": "T02 consumer_advice% AIO CW",
+   "site": 2.3,
+   "report": 2.3,
+   "ok": true
+  },
+  {
+   "check": "T02 affiliate% AIO CW",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T02 b2b_platform% AIO CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 forum_ugc% AIO CW",
+   "site": 19.9,
+   "report": 19.9,
+   "ok": true
+  },
+  {
+   "check": "T02 video% AIO CW",
+   "site": 9.1,
+   "report": 9.1,
+   "ok": true
+  },
+  {
+   "check": "T02 social% AIO CW",
+   "site": 12.9,
+   "report": 12.9,
+   "ok": true
+  },
+  {
+   "check": "T02 encyclopedia% AIO CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 public_body% AIO CW",
+   "site": 0.3,
+   "report": 0.3,
+   "ok": true
+  },
+  {
+   "check": "T02 association% AIO CW",
+   "site": 0.3,
+   "report": 0.3,
+   "ok": true
+  },
+  {
+   "check": "T02 other% AIO CW",
+   "site": 0.3,
+   "report": 0.3,
+   "ok": true
+  },
+  {
+   "check": "T02 n AIO EA",
+   "site": 366,
+   "report": 366,
+   "ok": true
+  },
+  {
+   "check": "T02 brand% AIO EA",
+   "site": 46.2,
+   "report": 46.2,
+   "ok": true
+  },
+  {
+   "check": "T02 retailer% AIO EA",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T02 distributor% AIO EA",
+   "site": 15.6,
+   "report": 15.6,
+   "ok": true
+  },
+  {
+   "check": "T02 media% AIO EA",
+   "site": 2.7,
+   "report": 2.7,
+   "ok": true
+  },
+  {
+   "check": "T02 testing_body% AIO EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 consumer_advice% AIO EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 affiliate% AIO EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 b2b_platform% AIO EA",
+   "site": 8.2,
+   "report": 8.2,
+   "ok": true
+  },
+  {
+   "check": "T02 forum_ugc% AIO EA",
+   "site": 6.3,
+   "report": 6.3,
+   "ok": true
+  },
+  {
+   "check": "T02 video% AIO EA",
+   "site": 8.2,
+   "report": 8.2,
+   "ok": true
+  },
+  {
+   "check": "T02 social% AIO EA",
+   "site": 5.5,
+   "report": 5.5,
+   "ok": true
+  },
+  {
+   "check": "T02 encyclopedia% AIO EA",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T02 public_body% AIO EA",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T02 association% AIO EA",
+   "site": 0.8,
+   "report": 0.8,
+   "ok": true
+  },
+  {
+   "check": "T02 other% AIO EA",
+   "site": 2.2,
+   "report": 2.2,
+   "ok": true
+  },
+  {
+   "check": "T03 n CHATGPT FR/fr",
+   "site": 41,
+   "report": 41,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% CHATGPT FR/fr",
+   "site": 68.3,
+   "report": 68.3,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% CHATGPT FR/fr",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% CHATGPT FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% CHATGPT FR/fr",
+   "site": 7.3,
+   "report": 7.3,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% CHATGPT FR/fr",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% CHATGPT FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% CHATGPT FR/fr",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% CHATGPT FR/fr",
+   "site": 4.9,
+   "report": 4.9,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% CHATGPT FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 video% CHATGPT FR/fr",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T03 social% CHATGPT FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% CHATGPT FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% CHATGPT FR/fr",
+   "site": 9.8,
+   "report": 9.8,
+   "ok": true
+  },
+  {
+   "check": "T03 association% CHATGPT FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% CHATGPT FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% CHATGPT FR/fr",
+   "site": 46.3,
+   "report": 46.3,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% CHATGPT FR/fr",
+   "site": 41.5,
+   "report": 41.5,
+   "ok": true
+  },
+  {
+   "check": "T04 global% CHATGPT FR/fr",
+   "site": 9.8,
+   "report": 9.8,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% CHATGPT FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% CHATGPT FR/fr",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match CHATGPT FR/fr",
+   "site": 85.4,
+   "report": 85.4,
+   "ok": true
+  },
+  {
+   "check": "T03 n CHATGPT DE/fr",
+   "site": 31,
+   "report": 31,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% CHATGPT DE/fr",
+   "site": 67.7,
+   "report": 67.7,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% CHATGPT DE/fr",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% CHATGPT DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% CHATGPT DE/fr",
+   "site": 6.5,
+   "report": 6.5,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% CHATGPT DE/fr",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% CHATGPT DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% CHATGPT DE/fr",
+   "site": 6.5,
+   "report": 6.5,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% CHATGPT DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% CHATGPT DE/fr",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T03 video% CHATGPT DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% CHATGPT DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% CHATGPT DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% CHATGPT DE/fr",
+   "site": 9.7,
+   "report": 9.7,
+   "ok": true
+  },
+  {
+   "check": "T03 association% CHATGPT DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% CHATGPT DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% CHATGPT DE/fr",
+   "site": 45.2,
+   "report": 45.2,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% CHATGPT DE/fr",
+   "site": 45.2,
+   "report": 45.2,
+   "ok": true
+  },
+  {
+   "check": "T04 global% CHATGPT DE/fr",
+   "site": 9.7,
+   "report": 9.7,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% CHATGPT DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% CHATGPT DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match CHATGPT DE/fr",
+   "site": 56.7,
+   "report": 56.7,
+   "ok": true
+  },
+  {
+   "check": "T03 n CHATGPT CH/fr",
+   "site": 34,
+   "report": 34,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% CHATGPT CH/fr",
+   "site": 58.8,
+   "report": 58.8,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% CHATGPT CH/fr",
+   "site": 5.9,
+   "report": 5.9,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% CHATGPT CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% CHATGPT CH/fr",
+   "site": 14.7,
+   "report": 14.7,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% CHATGPT CH/fr",
+   "site": 2.9,
+   "report": 2.9,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% CHATGPT CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% CHATGPT CH/fr",
+   "site": 2.9,
+   "report": 2.9,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% CHATGPT CH/fr",
+   "site": 2.9,
+   "report": 2.9,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% CHATGPT CH/fr",
+   "site": 5.9,
+   "report": 5.9,
+   "ok": true
+  },
+  {
+   "check": "T03 video% CHATGPT CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% CHATGPT CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% CHATGPT CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% CHATGPT CH/fr",
+   "site": 5.9,
+   "report": 5.9,
+   "ok": true
+  },
+  {
+   "check": "T03 association% CHATGPT CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% CHATGPT CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% CHATGPT CH/fr",
+   "site": 26.5,
+   "report": 26.5,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% CHATGPT CH/fr",
+   "site": 55.9,
+   "report": 55.9,
+   "ok": true
+  },
+  {
+   "check": "T04 global% CHATGPT CH/fr",
+   "site": 14.7,
+   "report": 14.7,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% CHATGPT CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% CHATGPT CH/fr",
+   "site": 2.9,
+   "report": 2.9,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match CHATGPT CH/fr",
+   "site": 64.7,
+   "report": 64.7,
+   "ok": true
+  },
+  {
+   "check": "T03 n CHATGPT FR/de",
+   "site": 31,
+   "report": 31,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% CHATGPT FR/de",
+   "site": 51.6,
+   "report": 51.6,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% CHATGPT FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% CHATGPT FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% CHATGPT FR/de",
+   "site": 12.9,
+   "report": 12.9,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% CHATGPT FR/de",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% CHATGPT FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% CHATGPT FR/de",
+   "site": 12.9,
+   "report": 12.9,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% CHATGPT FR/de",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% CHATGPT FR/de",
+   "site": 6.5,
+   "report": 6.5,
+   "ok": true
+  },
+  {
+   "check": "T03 video% CHATGPT FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% CHATGPT FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% CHATGPT FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% CHATGPT FR/de",
+   "site": 9.7,
+   "report": 9.7,
+   "ok": true
+  },
+  {
+   "check": "T03 association% CHATGPT FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% CHATGPT FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% CHATGPT FR/de",
+   "site": 9.7,
+   "report": 9.7,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% CHATGPT FR/de",
+   "site": 48.4,
+   "report": 48.4,
+   "ok": true
+  },
+  {
+   "check": "T04 global% CHATGPT FR/de",
+   "site": 38.7,
+   "report": 38.7,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% CHATGPT FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% CHATGPT FR/de",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match CHATGPT FR/de",
+   "site": 66.7,
+   "report": 66.7,
+   "ok": true
+  },
+  {
+   "check": "T03 n CHATGPT DE/de",
+   "site": 30,
+   "report": 30,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% CHATGPT DE/de",
+   "site": 56.7,
+   "report": 56.7,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% CHATGPT DE/de",
+   "site": 6.7,
+   "report": 6.7,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% CHATGPT DE/de",
+   "site": 3.3,
+   "report": 3.3,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% CHATGPT DE/de",
+   "site": 20.0,
+   "report": 20.0,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% CHATGPT DE/de",
+   "site": 3.3,
+   "report": 3.3,
+   "ok": true
+  },
+  {
+   "check": "T03 video% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% CHATGPT DE/de",
+   "site": 10.0,
+   "report": 10.0,
+   "ok": true
+  },
+  {
+   "check": "T03 association% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% CHATGPT DE/de",
+   "site": 70.0,
+   "report": 70.0,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% CHATGPT DE/de",
+   "site": 20.0,
+   "report": 20.0,
+   "ok": true
+  },
+  {
+   "check": "T04 global% CHATGPT DE/de",
+   "site": 10.0,
+   "report": 10.0,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% CHATGPT DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match CHATGPT DE/de",
+   "site": 93.3,
+   "report": 93.3,
+   "ok": true
+  },
+  {
+   "check": "T03 n CHATGPT CH/de",
+   "site": 34,
+   "report": 34,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% CHATGPT CH/de",
+   "site": 58.8,
+   "report": 58.8,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% CHATGPT CH/de",
+   "site": 5.9,
+   "report": 5.9,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% CHATGPT CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% CHATGPT CH/de",
+   "site": 11.8,
+   "report": 11.8,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% CHATGPT CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% CHATGPT CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% CHATGPT CH/de",
+   "site": 8.8,
+   "report": 8.8,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% CHATGPT CH/de",
+   "site": 2.9,
+   "report": 2.9,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% CHATGPT CH/de",
+   "site": 8.8,
+   "report": 8.8,
+   "ok": true
+  },
+  {
+   "check": "T03 video% CHATGPT CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% CHATGPT CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% CHATGPT CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% CHATGPT CH/de",
+   "site": 2.9,
+   "report": 2.9,
+   "ok": true
+  },
+  {
+   "check": "T03 association% CHATGPT CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% CHATGPT CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% CHATGPT CH/de",
+   "site": 23.5,
+   "report": 23.5,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% CHATGPT CH/de",
+   "site": 44.1,
+   "report": 44.1,
+   "ok": true
+  },
+  {
+   "check": "T04 global% CHATGPT CH/de",
+   "site": 32.4,
+   "report": 32.4,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% CHATGPT CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% CHATGPT CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match CHATGPT CH/de",
+   "site": 66.7,
+   "report": 66.7,
+   "ok": true
+  },
+  {
+   "check": "T03 n CHATGPT FR/en",
+   "site": 48,
+   "report": 48,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% CHATGPT FR/en",
+   "site": 50.0,
+   "report": 50.0,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% CHATGPT FR/en",
+   "site": 20.8,
+   "report": 20.8,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% CHATGPT FR/en",
+   "site": 4.2,
+   "report": 4.2,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% CHATGPT FR/en",
+   "site": 6.2,
+   "report": 6.2,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% CHATGPT FR/en",
+   "site": 6.2,
+   "report": 6.2,
+   "ok": true
+  },
+  {
+   "check": "T03 video% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% CHATGPT FR/en",
+   "site": 12.5,
+   "report": 12.5,
+   "ok": true
+  },
+  {
+   "check": "T03 association% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% CHATGPT FR/en",
+   "site": 25.0,
+   "report": 25.0,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% CHATGPT FR/en",
+   "site": 16.7,
+   "report": 16.7,
+   "ok": true
+  },
+  {
+   "check": "T04 global% CHATGPT FR/en",
+   "site": 58.3,
+   "report": 58.3,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% CHATGPT FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match CHATGPT FR/en",
+   "site": 69.0,
+   "report": 69.0,
+   "ok": true
+  },
+  {
+   "check": "T03 n CHATGPT DE/en",
+   "site": 44,
+   "report": 44,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% CHATGPT DE/en",
+   "site": 38.6,
+   "report": 38.6,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% CHATGPT DE/en",
+   "site": 2.3,
+   "report": 2.3,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% CHATGPT DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% CHATGPT DE/en",
+   "site": 20.5,
+   "report": 20.5,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% CHATGPT DE/en",
+   "site": 6.8,
+   "report": 6.8,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% CHATGPT DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% CHATGPT DE/en",
+   "site": 11.4,
+   "report": 11.4,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% CHATGPT DE/en",
+   "site": 6.8,
+   "report": 6.8,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% CHATGPT DE/en",
+   "site": 2.3,
+   "report": 2.3,
+   "ok": true
+  },
+  {
+   "check": "T03 video% CHATGPT DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% CHATGPT DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% CHATGPT DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% CHATGPT DE/en",
+   "site": 9.1,
+   "report": 9.1,
+   "ok": true
+  },
+  {
+   "check": "T03 association% CHATGPT DE/en",
+   "site": 2.3,
+   "report": 2.3,
+   "ok": true
+  },
+  {
+   "check": "T03 other% CHATGPT DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% CHATGPT DE/en",
+   "site": 34.1,
+   "report": 34.1,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% CHATGPT DE/en",
+   "site": 13.6,
+   "report": 13.6,
+   "ok": true
+  },
+  {
+   "check": "T04 global% CHATGPT DE/en",
+   "site": 52.3,
+   "report": 52.3,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% CHATGPT DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% CHATGPT DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match CHATGPT DE/en",
+   "site": 67.5,
+   "report": 67.5,
+   "ok": true
+  },
+  {
+   "check": "T03 n CHATGPT CH/en",
+   "site": 35,
+   "report": 35,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% CHATGPT CH/en",
+   "site": 42.9,
+   "report": 42.9,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% CHATGPT CH/en",
+   "site": 5.7,
+   "report": 5.7,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% CHATGPT CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% CHATGPT CH/en",
+   "site": 17.1,
+   "report": 17.1,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% CHATGPT CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% CHATGPT CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% CHATGPT CH/en",
+   "site": 5.7,
+   "report": 5.7,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% CHATGPT CH/en",
+   "site": 8.6,
+   "report": 8.6,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% CHATGPT CH/en",
+   "site": 8.6,
+   "report": 8.6,
+   "ok": true
+  },
+  {
+   "check": "T03 video% CHATGPT CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% CHATGPT CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% CHATGPT CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% CHATGPT CH/en",
+   "site": 8.6,
+   "report": 8.6,
+   "ok": true
+  },
+  {
+   "check": "T03 association% CHATGPT CH/en",
+   "site": 2.9,
+   "report": 2.9,
+   "ok": true
+  },
+  {
+   "check": "T03 other% CHATGPT CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% CHATGPT CH/en",
+   "site": 22.9,
+   "report": 22.9,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% CHATGPT CH/en",
+   "site": 17.1,
+   "report": 17.1,
+   "ok": true
+  },
+  {
+   "check": "T04 global% CHATGPT CH/en",
+   "site": 54.3,
+   "report": 54.3,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% CHATGPT CH/en",
+   "site": 2.9,
+   "report": 2.9,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% CHATGPT CH/en",
+   "site": 2.9,
+   "report": 2.9,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match CHATGPT CH/en",
+   "site": 84.8,
+   "report": 84.8,
+   "ok": true
+  },
+  {
+   "check": "T02 n CHATGPT all",
+   "site": 328,
+   "report": 328,
+   "ok": true
+  },
+  {
+   "check": "T02 brand% CHATGPT all",
+   "site": 54.3,
+   "report": 54.3,
+   "ok": true
+  },
+  {
+   "check": "T02 retailer% CHATGPT all",
+   "site": 2.7,
+   "report": 2.7,
+   "ok": true
+  },
+  {
+   "check": "T02 distributor% CHATGPT all",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 media% CHATGPT all",
+   "site": 13.7,
+   "report": 13.7,
+   "ok": true
+  },
+  {
+   "check": "T02 testing_body% CHATGPT all",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T02 consumer_advice% CHATGPT all",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 affiliate% CHATGPT all",
+   "site": 7.9,
+   "report": 7.9,
+   "ok": true
+  },
+  {
+   "check": "T02 b2b_platform% CHATGPT all",
+   "site": 4.3,
+   "report": 4.3,
+   "ok": true
+  },
+  {
+   "check": "T02 forum_ugc% CHATGPT all",
+   "site": 4.9,
+   "report": 4.9,
+   "ok": true
+  },
+  {
+   "check": "T02 video% CHATGPT all",
+   "site": 0.3,
+   "report": 0.3,
+   "ok": true
+  },
+  {
+   "check": "T02 social% CHATGPT all",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 encyclopedia% CHATGPT all",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 public_body% CHATGPT all",
+   "site": 8.8,
+   "report": 8.8,
+   "ok": true
+  },
+  {
+   "check": "T02 association% CHATGPT all",
+   "site": 0.6,
+   "report": 0.6,
+   "ok": true
+  },
+  {
+   "check": "T02 other% CHATGPT all",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 n CHATGPT CW",
+   "site": 139,
+   "report": 139,
+   "ok": true
+  },
+  {
+   "check": "T02 brand% CHATGPT CW",
+   "site": 20.9,
+   "report": 20.9,
+   "ok": true
+  },
+  {
+   "check": "T02 retailer% CHATGPT CW",
+   "site": 5.8,
+   "report": 5.8,
+   "ok": true
+  },
+  {
+   "check": "T02 distributor% CHATGPT CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 media% CHATGPT CW",
+   "site": 32.4,
+   "report": 32.4,
+   "ok": true
+  },
+  {
+   "check": "T02 testing_body% CHATGPT CW",
+   "site": 5.0,
+   "report": 5.0,
+   "ok": true
+  },
+  {
+   "check": "T02 consumer_advice% CHATGPT CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 affiliate% CHATGPT CW",
+   "site": 18.7,
+   "report": 18.7,
+   "ok": true
+  },
+  {
+   "check": "T02 b2b_platform% CHATGPT CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 forum_ugc% CHATGPT CW",
+   "site": 7.9,
+   "report": 7.9,
+   "ok": true
+  },
+  {
+   "check": "T02 video% CHATGPT CW",
+   "site": 0.7,
+   "report": 0.7,
+   "ok": true
+  },
+  {
+   "check": "T02 social% CHATGPT CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 encyclopedia% CHATGPT CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 public_body% CHATGPT CW",
+   "site": 8.6,
+   "report": 8.6,
+   "ok": true
+  },
+  {
+   "check": "T02 association% CHATGPT CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 other% CHATGPT CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 n CHATGPT EA",
+   "site": 189,
+   "report": 189,
+   "ok": true
+  },
+  {
+   "check": "T02 brand% CHATGPT EA",
+   "site": 78.8,
+   "report": 78.8,
+   "ok": true
+  },
+  {
+   "check": "T02 retailer% CHATGPT EA",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T02 distributor% CHATGPT EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 media% CHATGPT EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 testing_body% CHATGPT EA",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T02 consumer_advice% CHATGPT EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 affiliate% CHATGPT EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 b2b_platform% CHATGPT EA",
+   "site": 7.4,
+   "report": 7.4,
+   "ok": true
+  },
+  {
+   "check": "T02 forum_ugc% CHATGPT EA",
+   "site": 2.6,
+   "report": 2.6,
+   "ok": true
+  },
+  {
+   "check": "T02 video% CHATGPT EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 social% CHATGPT EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 encyclopedia% CHATGPT EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 public_body% CHATGPT EA",
+   "site": 9.0,
+   "report": 9.0,
+   "ok": true
+  },
+  {
+   "check": "T02 association% CHATGPT EA",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T02 other% CHATGPT EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 n PPLX FR/fr",
+   "site": 224,
+   "report": 224,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% PPLX FR/fr",
+   "site": 32.1,
+   "report": 32.1,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% PPLX FR/fr",
+   "site": 8.0,
+   "report": 8.0,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% PPLX FR/fr",
+   "site": 8.5,
+   "report": 8.5,
+   "ok": true
+  },
+  {
+   "check": "T03 media% PPLX FR/fr",
+   "site": 23.7,
+   "report": 23.7,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% PPLX FR/fr",
+   "site": 1.8,
+   "report": 1.8,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% PPLX FR/fr",
+   "site": 0.4,
+   "report": 0.4,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% PPLX FR/fr",
+   "site": 10.7,
+   "report": 10.7,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% PPLX FR/fr",
+   "site": 5.4,
+   "report": 5.4,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% PPLX FR/fr",
+   "site": 5.8,
+   "report": 5.8,
+   "ok": true
+  },
+  {
+   "check": "T03 video% PPLX FR/fr",
+   "site": 0.4,
+   "report": 0.4,
+   "ok": true
+  },
+  {
+   "check": "T03 social% PPLX FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% PPLX FR/fr",
+   "site": 0.4,
+   "report": 0.4,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% PPLX FR/fr",
+   "site": 0.9,
+   "report": 0.9,
+   "ok": true
+  },
+  {
+   "check": "T03 association% PPLX FR/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% PPLX FR/fr",
+   "site": 1.8,
+   "report": 1.8,
+   "ok": true
+  },
+  {
+   "check": "T04 local% PPLX FR/fr",
+   "site": 60.3,
+   "report": 60.3,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% PPLX FR/fr",
+   "site": 10.3,
+   "report": 10.3,
+   "ok": true
+  },
+  {
+   "check": "T04 global% PPLX FR/fr",
+   "site": 17.9,
+   "report": 17.9,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% PPLX FR/fr",
+   "site": 0.4,
+   "report": 0.4,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% PPLX FR/fr",
+   "site": 11.2,
+   "report": 11.2,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match PPLX FR/fr",
+   "site": 94.2,
+   "report": 94.2,
+   "ok": true
+  },
+  {
+   "check": "T03 n PPLX DE/fr",
+   "site": 201,
+   "report": 201,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% PPLX DE/fr",
+   "site": 27.9,
+   "report": 27.9,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% PPLX DE/fr",
+   "site": 5.0,
+   "report": 5.0,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% PPLX DE/fr",
+   "site": 10.4,
+   "report": 10.4,
+   "ok": true
+  },
+  {
+   "check": "T03 media% PPLX DE/fr",
+   "site": 26.4,
+   "report": 26.4,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% PPLX DE/fr",
+   "site": 1.5,
+   "report": 1.5,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% PPLX DE/fr",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% PPLX DE/fr",
+   "site": 13.9,
+   "report": 13.9,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% PPLX DE/fr",
+   "site": 4.5,
+   "report": 4.5,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% PPLX DE/fr",
+   "site": 7.5,
+   "report": 7.5,
+   "ok": true
+  },
+  {
+   "check": "T03 video% PPLX DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% PPLX DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% PPLX DE/fr",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% PPLX DE/fr",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 association% PPLX DE/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% PPLX DE/fr",
+   "site": 1.5,
+   "report": 1.5,
+   "ok": true
+  },
+  {
+   "check": "T04 local% PPLX DE/fr",
+   "site": 1.5,
+   "report": 1.5,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% PPLX DE/fr",
+   "site": 65.2,
+   "report": 65.2,
+   "ok": true
+  },
+  {
+   "check": "T04 global% PPLX DE/fr",
+   "site": 17.9,
+   "report": 17.9,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% PPLX DE/fr",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% PPLX DE/fr",
+   "site": 14.9,
+   "report": 14.9,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match PPLX DE/fr",
+   "site": 97.9,
+   "report": 97.9,
+   "ok": true
+  },
+  {
+   "check": "T03 n PPLX CH/fr",
+   "site": 210,
+   "report": 210,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% PPLX CH/fr",
+   "site": 29.0,
+   "report": 29.0,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% PPLX CH/fr",
+   "site": 6.7,
+   "report": 6.7,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% PPLX CH/fr",
+   "site": 11.0,
+   "report": 11.0,
+   "ok": true
+  },
+  {
+   "check": "T03 media% PPLX CH/fr",
+   "site": 23.8,
+   "report": 23.8,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% PPLX CH/fr",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% PPLX CH/fr",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% PPLX CH/fr",
+   "site": 11.9,
+   "report": 11.9,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% PPLX CH/fr",
+   "site": 3.8,
+   "report": 3.8,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% PPLX CH/fr",
+   "site": 6.2,
+   "report": 6.2,
+   "ok": true
+  },
+  {
+   "check": "T03 video% PPLX CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% PPLX CH/fr",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% PPLX CH/fr",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% PPLX CH/fr",
+   "site": 2.4,
+   "report": 2.4,
+   "ok": true
+  },
+  {
+   "check": "T03 association% PPLX CH/fr",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 other% PPLX CH/fr",
+   "site": 1.4,
+   "report": 1.4,
+   "ok": true
+  },
+  {
+   "check": "T04 local% PPLX CH/fr",
+   "site": 9.5,
+   "report": 9.5,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% PPLX CH/fr",
+   "site": 62.4,
+   "report": 62.4,
+   "ok": true
+  },
+  {
+   "check": "T04 global% PPLX CH/fr",
+   "site": 15.7,
+   "report": 15.7,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% PPLX CH/fr",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% PPLX CH/fr",
+   "site": 11.9,
+   "report": 11.9,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match PPLX CH/fr",
+   "site": 98.5,
+   "report": 98.5,
+   "ok": true
+  },
+  {
+   "check": "T03 n PPLX FR/de",
+   "site": 183,
+   "report": 183,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% PPLX FR/de",
+   "site": 34.4,
+   "report": 34.4,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% PPLX FR/de",
+   "site": 8.2,
+   "report": 8.2,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% PPLX FR/de",
+   "site": 2.7,
+   "report": 2.7,
+   "ok": true
+  },
+  {
+   "check": "T03 media% PPLX FR/de",
+   "site": 16.9,
+   "report": 16.9,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% PPLX FR/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% PPLX FR/de",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% PPLX FR/de",
+   "site": 14.8,
+   "report": 14.8,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% PPLX FR/de",
+   "site": 9.8,
+   "report": 9.8,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% PPLX FR/de",
+   "site": 8.2,
+   "report": 8.2,
+   "ok": true
+  },
+  {
+   "check": "T03 video% PPLX FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% PPLX FR/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% PPLX FR/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% PPLX FR/de",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T03 association% PPLX FR/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 other% PPLX FR/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 local% PPLX FR/de",
+   "site": 3.8,
+   "report": 3.8,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% PPLX FR/de",
+   "site": 76.5,
+   "report": 76.5,
+   "ok": true
+  },
+  {
+   "check": "T04 global% PPLX FR/de",
+   "site": 16.9,
+   "report": 16.9,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% PPLX FR/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% PPLX FR/de",
+   "site": 2.2,
+   "report": 2.2,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match PPLX FR/de",
+   "site": 95.5,
+   "report": 95.5,
+   "ok": true
+  },
+  {
+   "check": "T03 n PPLX DE/de",
+   "site": 191,
+   "report": 191,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% PPLX DE/de",
+   "site": 30.4,
+   "report": 30.4,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% PPLX DE/de",
+   "site": 6.3,
+   "report": 6.3,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% PPLX DE/de",
+   "site": 2.6,
+   "report": 2.6,
+   "ok": true
+  },
+  {
+   "check": "T03 media% PPLX DE/de",
+   "site": 18.3,
+   "report": 18.3,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% PPLX DE/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% PPLX DE/de",
+   "site": 2.1,
+   "report": 2.1,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% PPLX DE/de",
+   "site": 17.3,
+   "report": 17.3,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% PPLX DE/de",
+   "site": 10.5,
+   "report": 10.5,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% PPLX DE/de",
+   "site": 9.9,
+   "report": 9.9,
+   "ok": true
+  },
+  {
+   "check": "T03 video% PPLX DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% PPLX DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% PPLX DE/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% PPLX DE/de",
+   "site": 1.0,
+   "report": 1.0,
+   "ok": true
+  },
+  {
+   "check": "T03 association% PPLX DE/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% PPLX DE/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 local% PPLX DE/de",
+   "site": 76.4,
+   "report": 76.4,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% PPLX DE/de",
+   "site": 6.3,
+   "report": 6.3,
+   "ok": true
+  },
+  {
+   "check": "T04 global% PPLX DE/de",
+   "site": 14.1,
+   "report": 14.1,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% PPLX DE/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% PPLX DE/de",
+   "site": 2.6,
+   "report": 2.6,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match PPLX DE/de",
+   "site": 96.2,
+   "report": 96.2,
+   "ok": true
+  },
+  {
+   "check": "T03 n PPLX CH/de",
+   "site": 198,
+   "report": 198,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% PPLX CH/de",
+   "site": 30.8,
+   "report": 30.8,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% PPLX CH/de",
+   "site": 7.6,
+   "report": 7.6,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% PPLX CH/de",
+   "site": 2.5,
+   "report": 2.5,
+   "ok": true
+  },
+  {
+   "check": "T03 media% PPLX CH/de",
+   "site": 16.7,
+   "report": 16.7,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% PPLX CH/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% PPLX CH/de",
+   "site": 2.5,
+   "report": 2.5,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% PPLX CH/de",
+   "site": 16.7,
+   "report": 16.7,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% PPLX CH/de",
+   "site": 10.6,
+   "report": 10.6,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% PPLX CH/de",
+   "site": 8.6,
+   "report": 8.6,
+   "ok": true
+  },
+  {
+   "check": "T03 video% PPLX CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% PPLX CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% PPLX CH/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% PPLX CH/de",
+   "site": 2.0,
+   "report": 2.0,
+   "ok": true
+  },
+  {
+   "check": "T03 association% PPLX CH/de",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% PPLX CH/de",
+   "site": 1.0,
+   "report": 1.0,
+   "ok": true
+  },
+  {
+   "check": "T04 local% PPLX CH/de",
+   "site": 5.6,
+   "report": 5.6,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% PPLX CH/de",
+   "site": 76.8,
+   "report": 76.8,
+   "ok": true
+  },
+  {
+   "check": "T04 global% PPLX CH/de",
+   "site": 14.6,
+   "report": 14.6,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% PPLX CH/de",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% PPLX CH/de",
+   "site": 2.5,
+   "report": 2.5,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match PPLX CH/de",
+   "site": 96.4,
+   "report": 96.4,
+   "ok": true
+  },
+  {
+   "check": "T03 n PPLX FR/en",
+   "site": 187,
+   "report": 187,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% PPLX FR/en",
+   "site": 27.8,
+   "report": 27.8,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% PPLX FR/en",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% PPLX FR/en",
+   "site": 10.7,
+   "report": 10.7,
+   "ok": true
+  },
+  {
+   "check": "T03 media% PPLX FR/en",
+   "site": 28.9,
+   "report": 28.9,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% PPLX FR/en",
+   "site": 2.1,
+   "report": 2.1,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% PPLX FR/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% PPLX FR/en",
+   "site": 10.7,
+   "report": 10.7,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% PPLX FR/en",
+   "site": 2.7,
+   "report": 2.7,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% PPLX FR/en",
+   "site": 8.0,
+   "report": 8.0,
+   "ok": true
+  },
+  {
+   "check": "T03 video% PPLX FR/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 social% PPLX FR/en",
+   "site": 1.1,
+   "report": 1.1,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% PPLX FR/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% PPLX FR/en",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T03 association% PPLX FR/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% PPLX FR/en",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T04 local% PPLX FR/en",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% PPLX FR/en",
+   "site": 3.7,
+   "report": 3.7,
+   "ok": true
+  },
+  {
+   "check": "T04 global% PPLX FR/en",
+   "site": 79.1,
+   "report": 79.1,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% PPLX FR/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% PPLX FR/en",
+   "site": 15.0,
+   "report": 15.0,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match PPLX FR/en",
+   "site": 99.4,
+   "report": 99.4,
+   "ok": true
+  },
+  {
+   "check": "T03 n PPLX DE/en",
+   "site": 190,
+   "report": 190,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% PPLX DE/en",
+   "site": 27.9,
+   "report": 27.9,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% PPLX DE/en",
+   "site": 2.6,
+   "report": 2.6,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% PPLX DE/en",
+   "site": 9.5,
+   "report": 9.5,
+   "ok": true
+  },
+  {
+   "check": "T03 media% PPLX DE/en",
+   "site": 31.1,
+   "report": 31.1,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% PPLX DE/en",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% PPLX DE/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% PPLX DE/en",
+   "site": 10.0,
+   "report": 10.0,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% PPLX DE/en",
+   "site": 4.2,
+   "report": 4.2,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% PPLX DE/en",
+   "site": 7.9,
+   "report": 7.9,
+   "ok": true
+  },
+  {
+   "check": "T03 video% PPLX DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 social% PPLX DE/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% PPLX DE/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% PPLX DE/en",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T03 association% PPLX DE/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% PPLX DE/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 local% PPLX DE/en",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% PPLX DE/en",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T04 global% PPLX DE/en",
+   "site": 77.9,
+   "report": 77.9,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% PPLX DE/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% PPLX DE/en",
+   "site": 15.3,
+   "report": 15.3,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match PPLX DE/en",
+   "site": 99.4,
+   "report": 99.4,
+   "ok": true
+  },
+  {
+   "check": "T03 n PPLX CH/en",
+   "site": 190,
+   "report": 190,
+   "ok": true
+  },
+  {
+   "check": "T03 brand% PPLX CH/en",
+   "site": 28.9,
+   "report": 28.9,
+   "ok": true
+  },
+  {
+   "check": "T03 retailer% PPLX CH/en",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T03 distributor% PPLX CH/en",
+   "site": 8.9,
+   "report": 8.9,
+   "ok": true
+  },
+  {
+   "check": "T03 media% PPLX CH/en",
+   "site": 30.5,
+   "report": 30.5,
+   "ok": true
+  },
+  {
+   "check": "T03 testing_body% PPLX CH/en",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T03 consumer_advice% PPLX CH/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 affiliate% PPLX CH/en",
+   "site": 11.1,
+   "report": 11.1,
+   "ok": true
+  },
+  {
+   "check": "T03 b2b_platform% PPLX CH/en",
+   "site": 3.2,
+   "report": 3.2,
+   "ok": true
+  },
+  {
+   "check": "T03 forum_ugc% PPLX CH/en",
+   "site": 7.4,
+   "report": 7.4,
+   "ok": true
+  },
+  {
+   "check": "T03 video% PPLX CH/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 social% PPLX CH/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 encyclopedia% PPLX CH/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T03 public_body% PPLX CH/en",
+   "site": 2.6,
+   "report": 2.6,
+   "ok": true
+  },
+  {
+   "check": "T03 association% PPLX CH/en",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T03 other% PPLX CH/en",
+   "site": 2.1,
+   "report": 2.1,
+   "ok": true
+  },
+  {
+   "check": "T04 local% PPLX CH/en",
+   "site": 1.6,
+   "report": 1.6,
+   "ok": true
+  },
+  {
+   "check": "T04 neighbour% PPLX CH/en",
+   "site": 3.7,
+   "report": 3.7,
+   "ok": true
+  },
+  {
+   "check": "T04 global% PPLX CH/en",
+   "site": 76.3,
+   "report": 76.3,
+   "ok": true
+  },
+  {
+   "check": "T04 language_version% PPLX CH/en",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T04 unknown% PPLX CH/en",
+   "site": 17.9,
+   "report": 17.9,
+   "ok": true
+  },
+  {
+   "check": "T04 lang match PPLX CH/en",
+   "site": 98.7,
+   "report": 98.7,
+   "ok": true
+  },
+  {
+   "check": "T02 n PPLX all",
+   "site": 1774,
+   "report": 1774,
+   "ok": true
+  },
+  {
+   "check": "T02 brand% PPLX all",
+   "site": 29.9,
+   "report": 29.9,
+   "ok": true
+  },
+  {
+   "check": "T02 retailer% PPLX all",
+   "site": 5.4,
+   "report": 5.4,
+   "ok": true
+  },
+  {
+   "check": "T02 distributor% PPLX all",
+   "site": 7.5,
+   "report": 7.5,
+   "ok": true
+  },
+  {
+   "check": "T02 media% PPLX all",
+   "site": 24.0,
+   "report": 24.0,
+   "ok": true
+  },
+  {
+   "check": "T02 testing_body% PPLX all",
+   "site": 1.4,
+   "report": 1.4,
+   "ok": true
+  },
+  {
+   "check": "T02 consumer_advice% PPLX all",
+   "site": 1.0,
+   "report": 1.0,
+   "ok": true
+  },
+  {
+   "check": "T02 affiliate% PPLX all",
+   "site": 13.0,
+   "report": 13.0,
+   "ok": true
+  },
+  {
+   "check": "T02 b2b_platform% PPLX all",
+   "site": 6.0,
+   "report": 6.0,
+   "ok": true
+  },
+  {
+   "check": "T02 forum_ugc% PPLX all",
+   "site": 7.7,
+   "report": 7.7,
+   "ok": true
+  },
+  {
+   "check": "T02 video% PPLX all",
+   "site": 0.2,
+   "report": 0.2,
+   "ok": true
+  },
+  {
+   "check": "T02 social% PPLX all",
+   "site": 0.2,
+   "report": 0.2,
+   "ok": true
+  },
+  {
+   "check": "T02 encyclopedia% PPLX all",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T02 public_body% PPLX all",
+   "site": 1.9,
+   "report": 1.9,
+   "ok": true
+  },
+  {
+   "check": "T02 association% PPLX all",
+   "site": 0.1,
+   "report": 0.1,
+   "ok": true
+  },
+  {
+   "check": "T02 other% PPLX all",
+   "site": 1.2,
+   "report": 1.2,
+   "ok": true
+  },
+  {
+   "check": "T02 n PPLX CW",
+   "site": 905,
+   "report": 905,
+   "ok": true
+  },
+  {
+   "check": "T02 brand% PPLX CW",
+   "site": 9.5,
+   "report": 9.5,
+   "ok": true
+  },
+  {
+   "check": "T02 retailer% PPLX CW",
+   "site": 10.5,
+   "report": 10.5,
+   "ok": true
+  },
+  {
+   "check": "T02 distributor% PPLX CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 media% PPLX CW",
+   "site": 38.2,
+   "report": 38.2,
+   "ok": true
+  },
+  {
+   "check": "T02 testing_body% PPLX CW",
+   "site": 2.5,
+   "report": 2.5,
+   "ok": true
+  },
+  {
+   "check": "T02 consumer_advice% PPLX CW",
+   "site": 1.2,
+   "report": 1.2,
+   "ok": true
+  },
+  {
+   "check": "T02 affiliate% PPLX CW",
+   "site": 24.6,
+   "report": 24.6,
+   "ok": true
+  },
+  {
+   "check": "T02 b2b_platform% PPLX CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 forum_ugc% PPLX CW",
+   "site": 11.5,
+   "report": 11.5,
+   "ok": true
+  },
+  {
+   "check": "T02 video% PPLX CW",
+   "site": 0.2,
+   "report": 0.2,
+   "ok": true
+  },
+  {
+   "check": "T02 social% PPLX CW",
+   "site": 0.2,
+   "report": 0.2,
+   "ok": true
+  },
+  {
+   "check": "T02 encyclopedia% PPLX CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 public_body% PPLX CW",
+   "site": 0.4,
+   "report": 0.4,
+   "ok": true
+  },
+  {
+   "check": "T02 association% PPLX CW",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 other% PPLX CW",
+   "site": 1.0,
+   "report": 1.0,
+   "ok": true
+  },
+  {
+   "check": "T02 n PPLX EA",
+   "site": 869,
+   "report": 869,
+   "ok": true
+  },
+  {
+   "check": "T02 brand% PPLX EA",
+   "site": 51.2,
+   "report": 51.2,
+   "ok": true
+  },
+  {
+   "check": "T02 retailer% PPLX EA",
+   "site": 0.0,
+   "report": 0.0,
+   "ok": true
+  },
+  {
+   "check": "T02 distributor% PPLX EA",
+   "site": 15.3,
+   "report": 15.3,
+   "ok": true
+  },
+  {
+   "check": "T02 media% PPLX EA",
+   "site": 9.2,
+   "report": 9.2,
+   "ok": true
+  },
+  {
+   "check": "T02 testing_body% PPLX EA",
+   "site": 0.2,
+   "report": 0.2,
+   "ok": true
+  },
+  {
+   "check": "T02 consumer_advice% PPLX EA",
+   "site": 0.8,
+   "report": 0.8,
+   "ok": true
+  },
+  {
+   "check": "T02 affiliate% PPLX EA",
+   "site": 0.8,
+   "report": 0.8,
+   "ok": true
+  },
+  {
+   "check": "T02 b2b_platform% PPLX EA",
+   "site": 12.3,
+   "report": 12.3,
+   "ok": true
+  },
+  {
+   "check": "T02 forum_ugc% PPLX EA",
+   "site": 3.7,
+   "report": 3.7,
+   "ok": true
+  },
+  {
+   "check": "T02 video% PPLX EA",
+   "site": 0.1,
+   "report": 0.1,
+   "ok": true
+  },
+  {
+   "check": "T02 social% PPLX EA",
+   "site": 0.2,
+   "report": 0.2,
+   "ok": true
+  },
+  {
+   "check": "T02 encyclopedia% PPLX EA",
+   "site": 1.0,
+   "report": 1.0,
+   "ok": true
+  },
+  {
+   "check": "T02 public_body% PPLX EA",
+   "site": 3.3,
+   "report": 3.3,
+   "ok": true
+  },
+  {
+   "check": "T02 association% PPLX EA",
+   "site": 0.2,
+   "report": 0.2,
+   "ok": true
+  },
+  {
+   "check": "T02 other% PPLX EA",
+   "site": 1.5,
+   "report": 1.5,
+   "ok": true
+  },
+  {
+   "check": "T10 rep mean AIO all",
+   "site": 0.454,
+   "report": 0.454,
+   "ok": true
+  },
+  {
+   "check": "T10 rep n AIO all",
+   "site": 300,
+   "report": 300,
+   "ok": true
+  },
+  {
+   "check": "T10 loc mean AIO all",
+   "site": 0.318,
+   "report": 0.318,
+   "ok": true
+  },
+  {
+   "check": "T10 loc n AIO all",
+   "site": 818,
+   "report": 818,
+   "ok": true
+  },
+  {
+   "check": "T10 lang mean AIO all",
+   "site": 0.079,
+   "report": 0.079,
+   "ok": true
+  },
+  {
+   "check": "T10 lang n AIO all",
+   "site": 777,
+   "report": 777,
+   "ok": true
+  },
+  {
+   "check": "T10 en mean AIO all",
+   "site": 0.223,
+   "report": 0.223,
+   "ok": true
+  },
+  {
+   "check": "T10 rep mean AIO CW",
+   "site": 0.542,
+   "report": 0.542,
+   "ok": true
+  },
+  {
+   "check": "T10 rep n AIO CW",
+   "site": 114,
+   "report": 114,
+   "ok": true
+  },
+  {
+   "check": "T10 loc mean AIO CW",
+   "site": 0.391,
+   "report": 0.391,
+   "ok": true
+  },
+  {
+   "check": "T10 loc n AIO CW",
+   "site": 299,
+   "report": 299,
+   "ok": true
+  },
+  {
+   "check": "T10 lang mean AIO CW",
+   "site": 0.108,
+   "report": 0.108,
+   "ok": true
+  },
+  {
+   "check": "T10 lang n AIO CW",
+   "site": 304,
+   "report": 304,
+   "ok": true
+  },
+  {
+   "check": "T10 en mean AIO CW",
+   "site": 0.409,
+   "report": 0.409,
+   "ok": true
+  },
+  {
+   "check": "T10 rep mean AIO EA",
+   "site": 0.4,
+   "report": 0.4,
+   "ok": true
+  },
+  {
+   "check": "T10 rep n AIO EA",
+   "site": 186,
+   "report": 186,
+   "ok": true
+  },
+  {
+   "check": "T10 loc mean AIO EA",
+   "site": 0.276,
+   "report": 0.276,
+   "ok": true
+  },
+  {
+   "check": "T10 loc n AIO EA",
+   "site": 519,
+   "report": 519,
+   "ok": true
+  },
+  {
+   "check": "T10 lang mean AIO EA",
+   "site": 0.061,
+   "report": 0.061,
+   "ok": true
+  },
+  {
+   "check": "T10 lang n AIO EA",
+   "site": 473,
+   "report": 473,
+   "ok": true
+  },
+  {
+   "check": "T10 en mean AIO EA",
+   "site": 0.125,
+   "report": 0.125,
+   "ok": true
+  },
+  {
+   "check": "T10 rep mean CHATGPT all",
+   "site": 0.51,
+   "report": 0.51,
+   "ok": true
+  },
+  {
+   "check": "T10 rep n CHATGPT all",
+   "site": 430,
+   "report": 430,
+   "ok": true
+  },
+  {
+   "check": "T10 loc mean CHATGPT all",
+   "site": 0.392,
+   "report": 0.392,
+   "ok": true
+  },
+  {
+   "check": "T10 loc n CHATGPT all",
+   "site": 1287,
+   "report": 1287,
+   "ok": true
+  },
+  {
+   "check": "T10 lang mean CHATGPT all",
+   "site": 0.375,
+   "report": 0.375,
+   "ok": true
+  },
+  {
+   "check": "T10 lang n CHATGPT all",
+   "site": 1210,
+   "report": 1210,
+   "ok": true
+  },
+  {
+   "check": "T10 en mean CHATGPT all",
+   "site": 0.321,
+   "report": 0.321,
+   "ok": true
+  },
+  {
+   "check": "T10 rep mean CHATGPT CW",
+   "site": 0.393,
+   "report": 0.393,
+   "ok": true
+  },
+  {
+   "check": "T10 rep n CHATGPT CW",
+   "site": 185,
+   "report": 185,
+   "ok": true
+  },
+  {
+   "check": "T10 loc mean CHATGPT CW",
+   "site": 0.248,
+   "report": 0.248,
+   "ok": true
+  },
+  {
+   "check": "T10 loc n CHATGPT CW",
+   "site": 550,
+   "report": 550,
+   "ok": true
+  },
+  {
+   "check": "T10 lang mean CHATGPT CW",
+   "site": 0.189,
+   "report": 0.189,
+   "ok": true
+  },
+  {
+   "check": "T10 lang n CHATGPT CW",
+   "site": 505,
+   "report": 505,
+   "ok": true
+  },
+  {
+   "check": "T10 en mean CHATGPT CW",
+   "site": 0.253,
+   "report": 0.253,
+   "ok": true
+  },
+  {
+   "check": "T10 rep mean CHATGPT EA",
+   "site": 0.598,
+   "report": 0.598,
+   "ok": true
+  },
+  {
+   "check": "T10 rep n CHATGPT EA",
+   "site": 245,
+   "report": 245,
+   "ok": true
+  },
+  {
+   "check": "T10 loc mean CHATGPT EA",
+   "site": 0.5,
+   "report": 0.5,
+   "ok": true
+  },
+  {
+   "check": "T10 loc n CHATGPT EA",
+   "site": 737,
+   "report": 737,
+   "ok": true
+  },
+  {
+   "check": "T10 lang mean CHATGPT EA",
+   "site": 0.508,
+   "report": 0.508,
+   "ok": true
+  },
+  {
+   "check": "T10 lang n CHATGPT EA",
+   "site": 705,
+   "report": 705,
+   "ok": true
+  },
+  {
+   "check": "T10 en mean CHATGPT EA",
+   "site": 0.371,
+   "report": 0.371,
+   "ok": true
+  },
+  {
+   "check": "T10 rep mean PPLX all",
+   "site": 0.789,
+   "report": 0.789,
+   "ok": true
+  },
+  {
+   "check": "T10 rep n PPLX all",
+   "site": 141,
+   "report": 141,
+   "ok": true
+  },
+  {
+   "check": "T10 loc mean PPLX all",
+   "site": 0.751,
+   "report": 0.751,
+   "ok": true
+  },
+  {
+   "check": "T10 loc n PPLX all",
+   "site": 214,
+   "report": 214,
+   "ok": true
+  },
+  {
+   "check": "T10 lang mean PPLX all",
+   "site": 0.05,
+   "report": 0.05,
+   "ok": true
+  },
+  {
+   "check": "T10 lang n PPLX all",
+   "site": 214,
+   "report": 214,
+   "ok": true
+  },
+  {
+   "check": "T10 en mean PPLX all",
+   "site": 0.855,
+   "report": 0.855,
+   "ok": true
+  },
+  {
+   "check": "T10 rep mean PPLX CW",
+   "site": 0.796,
+   "report": 0.796,
+   "ok": true
+  },
+  {
+   "check": "T10 rep n PPLX CW",
+   "site": 69,
+   "report": 69,
+   "ok": true
+  },
+  {
+   "check": "T10 loc mean PPLX CW",
+   "site": 0.76,
+   "report": 0.76,
+   "ok": true
+  },
+  {
+   "check": "T10 loc n PPLX CW",
+   "site": 106,
+   "report": 106,
+   "ok": true
+  },
+  {
+   "check": "T10 lang mean PPLX CW",
+   "site": 0.015,
+   "report": 0.015,
+   "ok": true
+  },
+  {
+   "check": "T10 lang n PPLX CW",
+   "site": 106,
+   "report": 106,
+   "ok": true
+  },
+  {
+   "check": "T10 en mean PPLX CW",
+   "site": 0.861,
+   "report": 0.861,
+   "ok": true
+  },
+  {
+   "check": "T10 rep mean PPLX EA",
+   "site": 0.783,
+   "report": 0.783,
+   "ok": true
+  },
+  {
+   "check": "T10 rep n PPLX EA",
+   "site": 72,
+   "report": 72,
+   "ok": true
+  },
+  {
+   "check": "T10 loc mean PPLX EA",
+   "site": 0.743,
+   "report": 0.743,
+   "ok": true
+  },
+  {
+   "check": "T10 loc n PPLX EA",
+   "site": 108,
+   "report": 108,
+   "ok": true
+  },
+  {
+   "check": "T10 lang mean PPLX EA",
+   "site": 0.084,
+   "report": 0.084,
+   "ok": true
+  },
+  {
+   "check": "T10 lang n PPLX EA",
+   "site": 108,
+   "report": 108,
+   "ok": true
+  },
+  {
+   "check": "T10 en mean PPLX EA",
+   "site": 0.848,
+   "report": 0.848,
+   "ok": true
+  },
+  {
+   "check": "domain counts add up AIO",
+   "site": 708,
+   "report": 708,
+   "ok": true
+  },
+  {
+   "check": "domain counts add up CHATGPT",
+   "site": 328,
+   "report": 328,
+   "ok": true
+  },
+  {
+   "check": "domain counts add up PPLX",
+   "site": 1774,
+   "report": 1774,
+   "ok": true
+  },
+  {
+   "check": "T05 PPLX top-3 counts FR/fr",
+   "site": [
+    7,
+    3,
+    3
+   ],
+   "report": [
+    7,
+    3,
+    3
+   ],
+   "ok": true
+  },
+  {
+   "check": "T05 PPLX top-3 counts DE/fr",
+   "site": [
+    7,
+    4,
+    3
+   ],
+   "report": [
+    7,
+    4,
+    3
+   ],
+   "ok": true
+  },
+  {
+   "check": "T05 PPLX top-3 counts CH/fr",
+   "site": [
+    5,
+    5,
+    4
+   ],
+   "report": [
+    5,
+    5,
+    4
+   ],
+   "ok": true
+  },
+  {
+   "check": "T05 PPLX top-3 counts FR/de",
+   "site": [
+    4,
+    3,
+    3
+   ],
+   "report": [
+    4,
+    3,
+    3
+   ],
+   "ok": true
+  },
+  {
+   "check": "T05 PPLX top-3 counts DE/de",
+   "site": [
+    5,
+    4,
+    4
+   ],
+   "report": [
+    5,
+    4,
+    4
+   ],
+   "ok": true
+  },
+  {
+   "check": "T05 PPLX top-3 counts CH/de",
+   "site": [
+    4,
+    4,
+    4
+   ],
+   "report": [
+    4,
+    4,
+    4
+   ],
+   "ok": true
+  },
+  {
+   "check": "T05 PPLX top-3 counts FR/en",
+   "site": [
+    11,
+    5,
+    4
+   ],
+   "report": [
+    11,
+    5,
+    4
+   ],
+   "ok": true
+  },
+  {
+   "check": "T05 PPLX top-3 counts DE/en",
+   "site": [
+    11,
+    5,
+    4
+   ],
+   "report": [
+    11,
+    5,
+    4
+   ],
+   "ok": true
+  },
+  {
+   "check": "T05 PPLX top-3 counts CH/en",
+   "site": [
+    10,
+    5,
+    3
+   ],
+   "report": [
+    10,
+    5,
+    3
+   ],
+   "ok": true
+  },
+  {
+   "check": "AI Overview searches all",
+   "site": 648,
+   "report": 648,
+   "ok": true
+  },
+  {
+   "check": "AI Overview searches CW",
+   "site": 324,
+   "report": 324,
+   "ok": true
+  },
+  {
+   "check": "AI Overview searches EA",
+   "site": 324,
+   "report": 324,
+   "ok": true
+  },
+  {
+   "check": "AI Overviews shown, all",
+   "site": 406,
+   "report": 406,
+   "ok": true
+  },
+  {
+   "check": "answers analysed",
+   "site": 1510,
+   "report": 1510,
+   "ok": true
+  },
+  {
+   "check": "cited links",
+   "site": 12414,
+   "report": 12414,
+   "ok": true
+  },
+  {
+   "check": "distinct domains cited",
+   "site": 1294,
+   "report": 1294,
+   "ok": true
+  },
+  {
+   "check": "giants linked %",
+   "site": 27.4,
+   "report": 27.4,
+   "ok": true
+  },
+  {
+   "check": "champions linked %",
+   "site": 25.8,
+   "report": 25.8,
+   "ok": true
+  },
+  {
+   "check": "F6 folder links",
+   "site": 1294,
+   "report": 1294,
+   "ok": true
+  },
+  {
+   "check": "F6 folder domains",
+   "site": 40,
+   "report": 40,
+   "ok": true
+  },
+  {
+   "check": "F6 brand domains",
+   "site": 81,
+   "report": 81,
+   "ok": true
+  },
+  {
+   "check": "F6 top-6 share",
+   "site": 65.0,
+   "report": 65.0,
+   "ok": true
+  },
+  {
+   "check": "low-confidence links %",
+   "site": 6.8,
+   "report": 6.8,
+   "ok": true
+  },
+  {
+   "check": "H2 Google range",
+   "site": [
+    80.8,
+    84.4
+   ],
+   "report": [
+    80.8,
+    84.4
+   ],
+   "ok": true
+  },
+  {
+   "check": "H2 ChatGPT range",
+   "site": [
+    52.3,
+    58.3
+   ],
+   "report": [
+    52.3,
+    58.3
+   ],
+   "ok": true
+  },
+  {
+   "check": "H2 Perplexity range",
+   "site": [
+    76.3,
+    79.1
+   ],
+   "report": [
+    76.3,
+    79.1
+   ],
+   "ok": true
+  },
+  {
+   "check": "F7 mentions",
+   "site": 2012,
+   "report": 2012,
+   "ok": true
+  },
+  {
+   "check": "F6 bases",
+   "site": [
+    1771,
+    1929,
+    927,
+    1792
+   ],
+   "report": [
+    1771,
+    1929,
+    927,
+    1792
+   ],
+   "ok": true
+  },
+  {
+   "check": "H4 distributors+directories Google B2B",
+   "site": 23.8,
+   "report": 23.8,
+   "ok": true
+  },
+  {
+   "check": "F1 Google loc",
+   "site": 0.318,
+   "report": 0.318,
+   "ok": true
+  },
+  {
+   "check": "F1 Google lang",
+   "site": 0.079,
+   "report": 0.079,
+   "ok": true
+  },
+  {
+   "check": "F1 Perplexity loc",
+   "site": 0.751,
+   "report": 0.751,
+   "ok": true
+  },
+  {
+   "check": "F1 ChatGPT lang",
+   "site": 0.375,
+   "report": 0.375,
+   "ok": true
+  },
+  {
+   "check": "F2 ChatGPT local",
+   "site": 33.2,
+   "report": 33.2,
+   "ok": true
+  },
+  {
+   "check": "F2 ChatGPT assumed",
+   "site": 52,
+   "report": 52,
+   "ok": true
+  },
+  {
+   "check": "F3 Perplexity DE from CH",
+   "site": 75.3,
+   "report": 75.3,
+   "ok": true
+  },
+  {
+   "check": "F4 ChatGPT B2B brand",
+   "site": 78.8,
+   "report": 78.8,
+   "ok": true
+  },
+  {
+   "check": "F6 ChatGPT subfolder",
+   "site": 67.1,
+   "report": 67.1,
+   "ok": true
+  },
+  {
+   "check": "F7 DE brands in language",
+   "site": 50.4,
+   "report": 50.4,
+   "ok": true
+  },
+  {
+   "check": "Portable authority Perplexity 3 countries",
+   "site": 56.4,
+   "report": 56.4,
+   "ok": true
+  },
+  {
+   "check": "Portable authority Google 3 countries",
+   "site": 15.3,
+   "report": 15.3,
+   "ok": true
+  }
+ ]
+}
