@@ -1089,9 +1089,17 @@ function initFindingCharts() {
   const m6 = $('#c-f6'); if (m6) chartUrl(m6);
   const m7 = $('#c-f7'); if (m7) { const r = chartBrands(m7, v7); seg('#s-f7', v7, r, sectorOpts); }
 }
+function initTheme() {
+  const btn = $('.theme'); if (!btn) return;
+  const root = document.documentElement;
+  const dark = () => root.getAttribute('data-theme') === 'dark' || (!root.getAttribute('data-theme') && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
+  const label = () => btn.setAttribute('aria-label', dark() ? btn.dataset.lLight : btn.dataset.lDark);
+  label();
+  btn.addEventListener('click', () => { const next = dark() ? 'light' : 'dark'; root.setAttribute('data-theme', next); store.set('cbai-theme', next); label(); });
+}
 function boot() {
   document.documentElement.classList.add('js');
-  initFindingCharts(); initHero(); initSituation(); initExplorer(); initGate(); initNav();
+  initFindingCharts(); initHero(); initSituation(); initExplorer(); initGate(); initNav(); initTheme();
 }
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot); else boot();
 
