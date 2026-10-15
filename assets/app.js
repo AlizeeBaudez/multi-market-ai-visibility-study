@@ -1097,9 +1097,43 @@ function initTheme() {
   label();
   btn.addEventListener('click', () => { const next = dark() ? 'light' : 'dark'; root.setAttribute('data-theme', next); store.set('cbai-theme', next); label(); });
 }
+function initShare() {
+  const dlg = document.getElementById('share'), S = CFG.share;
+  if (!dlg || !S) return;
+  const ta = dlg.querySelector('textarea'), msg = dlg.querySelector('.sh-msg');
+  const say = s => { msg.textContent = s || ''; };
+  const full = () => ta.value.trim() + '\n' + S.url;
+  const copy = async s => {
+    try { await navigator.clipboard.writeText(s); return true; } catch (e) { /* fall back below */ }
+    const f = document.createElement('textarea'); f.value = s; f.style.cssText = 'position:fixed;opacity:0'; document.body.appendChild(f); f.select();
+    let ok = false; try { ok = document.execCommand('copy'); } catch (e) { /* ignore */ }
+    f.remove(); return ok;
+  };
+  const nat = dlg.querySelector('[data-net="native"]');
+  if (nat && navigator.share) nat.hidden = false;
+  const show = key => { ta.value = S.texts[key] || S.texts.gen; say(''); if (dlg.showModal) dlg.showModal(); else dlg.setAttribute('open', ''); };
+  document.addEventListener('click', e => {
+    const b = e.target.closest('[data-share]');
+    if (b) { e.preventDefault(); show(b.dataset.share); }
+  });
+  dlg.addEventListener('click', e => { if (e.target === dlg) dlg.close(); });   // click on the backdrop
+  const go = u => window.open(u, '_blank', 'noopener');
+  const q = encodeURIComponent;
+  dlg.addEventListener('click', async e => {
+    const b = e.target.closest('[data-net]'); if (!b) return;
+    const net = b.dataset.net, txt = ta.value.trim();
+    if (net === 'copy') { await copy(full()); say(S.ui.copied); }
+    else if (net === 'li') { await copy(full()); say(S.ui.li_hint); go('https://www.linkedin.com/feed/?shareActive=true&text=' + q(full())); }
+    else if (net === 'x') go('https://x.com/intent/post?text=' + q(txt) + '&url=' + q(S.url));
+    else if (net === 'bsky') go('https://bsky.app/intent/compose?text=' + q(full()));
+    else if (net === 'wa') go('https://wa.me/?text=' + q(full()));
+    else if (net === 'mail') location.href = 'mailto:?subject=' + q(S.ui.mail_subject) + '&body=' + q(full());
+    else if (net === 'native') { try { await navigator.share({ text: txt, url: S.url }); } catch (err) { /* cancelled */ } }
+  });
+}
 function boot() {
   document.documentElement.classList.add('js');
-  initFindingCharts(); initHero(); initSituation(); initExplorer(); initGate(); initNav(); initTheme();
+  initFindingCharts(); initHero(); initSituation(); initExplorer(); initGate(); initNav(); initTheme(); initShare();
 }
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot); else boot();
 
