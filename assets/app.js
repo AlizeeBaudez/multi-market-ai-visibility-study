@@ -1124,8 +1124,7 @@ function initShare() {
     const net = b.dataset.net, txt = ta.value.trim();
     if (net === 'copy') { await copy(full()); say(S.ui.copied); }
     else if (net === 'li') { await copy(full()); say(S.ui.li_hint); go('https://www.linkedin.com/feed/?shareActive=true&text=' + q(full())); }
-    else if (net === 'x') go('https://x.com/intent/post?text=' + q(txt) + '&url=' + q(S.url));
-    else if (net === 'bsky') go('https://bsky.app/intent/compose?text=' + q(full()));
+    else if (net === 'bsky') go('https://bsky.app/intent/compose?text=' + q(full().replace(/d.Alizée Baudez/g, 'de @' + S.bsky).replace(/Alizée Baudez/g, '@' + S.bsky)));
     else if (net === 'wa') go('https://wa.me/?text=' + q(full()));
     else if (net === 'mail') location.href = 'mailto:?subject=' + q(S.ui.mail_subject) + '&body=' + q(full());
     else if (net === 'native') { try { await navigator.share({ text: txt, url: S.url }); } catch (err) { /* cancelled */ } }
