@@ -1,5 +1,7 @@
 # Cross-border AI visibility study 2026
 
+> **The study has moved to [alizeebaudez.com](https://alizeebaudez.com/en/research/cross-border-ai-visibility-study)** ([français](https://alizeebaudez.com/fr/recherche/etude-visibilite-ia-transfrontaliere)). The GitHub Pages addresses below now redirect there; the original microsite is in this repository's history.
+
 [![Does your authority cross the border? The study's interactive page.](assets/og/og-en.jpg)](https://alizeebaudez.github.io/multi-market-ai-visibility-study/)
 
 **Does a brand's authority in AI answers cross the border with it?** I asked Google AI Overviews, ChatGPT and Perplexity the same 24 questions in French, German and English, from France, Germany and Switzerland. 1,944 test runs, 1,510 answers analysed, 12,414 links cited.
